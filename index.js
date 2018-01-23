@@ -1,4 +1,4 @@
 
-module.exports=function test(){
-    console.log('aaaaa');
+module.exports=function test(name){
+    console.log(name);
 }
